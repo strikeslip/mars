@@ -1,4 +1,4 @@
-# ELYSIUM MARS — Technical Documentation
+# ELYSIUM MARS MUSIFICATION
 
 **Three prototype musification instruments built from NASA InSight marsquake data, Elysium Planitia, Mars**
 

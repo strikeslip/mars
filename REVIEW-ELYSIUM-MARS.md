@@ -5,7 +5,7 @@
 **Runtime Stack:** Single-file Vanilla HTML5 / CSS / ES6+ / Web Audio API / Canvas 2D (Zero dependencies, offline-capable)  
 **Data Sources:** NASA InSight SEIS VBB waveforms (`XB.ELYSE`, 2019 — *note: 2019, not 2029*) & MOLA `MarsTopo719` topography  
 **License:** MIT (Code) · CC BY 4.0 (InSight SEIS) · BSD-3-Clause (SHTOOLS / MarsTopo719 derivative)<br>
-**Review by:** Gemini 4 Hydrogen
+**Review by:** Gemini 4 Hydrogen<br>
 **Date:** Nov 20, 2026
 
 ---
